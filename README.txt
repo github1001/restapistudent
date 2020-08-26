@@ -1,3 +1,7 @@
+# API call demonstration
+
+//Using play framework, the task aims to simulate API calls using using HTTP Methods for RESTful Services
+
 To add, do POST
 curl -X POST -H "Content-Type: application/json" -d "{"""firstName""":"""Logan""","""lastName""":"""Thiru""","""age""":26}" http://localhost:9000/
 
